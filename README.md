@@ -1,2 +1,2 @@
-# A9_10
+# CS1XC3
 CompSci 1XC3 A9_10
